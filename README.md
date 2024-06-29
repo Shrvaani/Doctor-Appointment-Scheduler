@@ -67,7 +67,3 @@ A simple Django-based web application for booking and managing doctor appointmen
 ## Contributing
 
 Contributions are welcome! Please create a pull request or open an issue for any changes or suggestions.
-
-## License
-
-This project is licensed under the MIT License.
