@@ -20,7 +20,7 @@ A simple Django-based web application for booking and managing doctor appointmen
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/doctor-appointment-system.git
+    git clone [https://github.com/Shrvaani/Doctor-Appointment-Scheduler.git]
     cd doctor-appointment-system
     ```
 
